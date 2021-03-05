@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**siddhartha18101/siddhartha18101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Alluri Siddhartha Varma, an ECE undergraduate from IIIT-NR. I'm interested in research. Deep down in my heart, I want to solve the problems that are worrying mankind. Currently, along with my studies., I'm contributing to opensource and spending time doing research.
 
-Here are some ideas to get you started:
+Technical Skills:
+- Python, C, Java, and MATLAB
+- PyTorch, Keras, and Tensorflow
+- Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Other skills:
+- Management and Leading teams
+- Professional Communication
+
+Areas of Interest:
+- Privacy-Preserving AI & Differential Privacy
+- Deep Learning (Audio mainly)
+- Customer Adoption (Marketing)
+
+Blogger: I'm very interested in blogs. I read them all time and also I write few blogs sometimes
+
+Feel free to mail me at siddhartha18101@iiitnr.edu.in. I'm open to research collaborations
