@@ -3,14 +3,13 @@
 I am Alluri Siddhartha Varma, an ECE undergraduate from IIIT-NR. I'm interested in research. Deep down in my heart, I want to solve the problems that are worrying mankind. Currently, along with my studies., I'm contributing to opensource and spending time doing research.
 
 Areas of Interest:
-- Privacy-Preserving AI & Differential Privacy
+- Privacy-Preserving AI 
+- Differential Privacy
 - Deep Learning 
 - Computer Vision
-- Natural Language Processing
-- Customer Adoption (Marketing)
 
 Technical Skills:
-- Python, C, Java, and MATLAB
+- Python, C, C++, Java, and MATLAB
 - PyTorch, Keras, and Tensorflow
 - Web Development
 
@@ -26,4 +25,4 @@ Blogger: I'm very interested in blogs. I read them all time and also I write few
 
 Find [My Blog](https://backpropogation.blogspot.com/) here
 
-Feel free to mail me at siddhartha18101@iiitnr.edu.in. I'm open to research collaborations
+Feel free to mail me at siddhartha18101@iiitnr.edu.in. 
